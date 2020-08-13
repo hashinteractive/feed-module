@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/feed",
+  "name": "@hashinteractive/nuxtjs-feed",
   "version": "2.0.0",
   "description": "Fork of @nuxtjs/feed module implementing node RSS",
   "keywords": [
